@@ -1,0 +1,17 @@
+.Bord-board {
+    background-color: red;
+}
+.Bord-board-full-size {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+.Bord-square-grid {
+    border-top: 1px solid orange; 
+    border-right: 1px solid orange; 
+}
+.Bord-square-grid-bottom-border {
+    border-bottom: 1px solid orange; 
+}

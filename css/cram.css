@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+}
+#box {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+.hairlines div {
+      border-width: 0.5px;
+}
